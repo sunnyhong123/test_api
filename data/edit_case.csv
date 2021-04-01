@@ -1,0 +1,2 @@
+id,Modular,title,method,path,data,result
+edit_001,edit,参数正确修改个人信息成功,post,/api/shop/customer/edit,"{""store_id"":2,""store_customer_id"":"""",""account"":""gnsuqp81473@chacuo.net"",""first_name"":""1"",""last_name"":""2"",""brithday"":""2019-11-30"",""gender"":1,""country"":""US"",""region"":""AL"",""is_complete_edit"":0,""interests"":[""DIY"",""Coding"",""Video Game"",""Shopping"",""Sports"",""Yoga"",""Electronics"",""Technology""],""app_env"":""sandbox""}",ok

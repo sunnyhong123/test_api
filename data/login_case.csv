@@ -1,0 +1,5 @@
+id,Modular,title,method,path,data,result
+login_001,login,"用户名密码正确,登录成功",post,/api/shop/customer/record,"{""store_id"":2,""action"":""login"",""account"":""dqszmv32910@chacuo.net""}",1
+login_002,login,"用户名错误密码正确,登录失败",post,/api/shop/customer/record,"{""store_id"":2,""action"":""login"",""account"":""dqszmv32910@chacuo.net""}",1
+login_003,login,"用户名正确密码错误,登录失败",post,/api/shop/customer/record,"{""store_id"":2,""action"":""login"",""account"":""dqszmv32910@chacuo.net""}",1
+login_004,login,"用户名为空密码正确,登录失败",post,/api/shop/customer/record,"{""store_id"":2,""action"":""login"",""account"":""dqszmv32910@chacuo.net""}",0

@@ -1,0 +1,2 @@
+id,Modular,title,method,path,data,result
+info_001,info,"参数正确,获取数据成功",post,/api/shop/customer/info,"{""store_id"":2,""country"":""US"",""first_name"":""test"",""last_name"":""test"",""account"":""9586760361@qq.com"",""source"":1,""platform"":""Shopify"",""action"":""register"",""act_id"":0,""password"":""123456"",""accepts_marketing"":1,""app_env"":""sandbox""}",1

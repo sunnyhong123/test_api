@@ -1,0 +1,6 @@
+id,Modular,title,method,path,data,result
+signup_001,signup,"ÓÃ»§ÃûÃÜÂëÕıÈ·,×¢²á³É¹¦",post,/api/shop/customer/signup,"{""store_id"":2,""country"":""US"",""account"":""9586760361@qq.com"",""source"":1,""password"":""123456""}",1
+signup_002,signup,"ÓÊÏä¸ñÊ½´íÎó,×¢²áÊ§°Ü",post,/api/shop/customer/signup,"{""store_id"":2,""country"":""US"",""account"":""9586760361@qq.com"",""source"":1,""password"":""123456""}",10001
+signup_003,signup,"ÓÊÏäÎª¿Õ,×¢²áÊ§°Ü",post,/api/shop/customer/signup,"{""store_id"":2,""country"":""US"",""account"":""9586760361@qq.com"",""source"":1,""password"":""123456""}",0
+signup_004,signup,"ÃÜÂëÎª¿Õ,×¢²áÊ§°Ü",post,/api/shop/customer/signup,"{""store_id"":2,""country"":""US"",""account"":""9586760361@qq.com"",""source"":1,""password"":""""}",0
+signup_005,signup,"ÃÜÂë¹ı¶Ì,×¢²áÊ§°Ü",post,/api/shop/customer/signup,"{""store_id"":2,""country"":""US"",""account"":""9586760361@qq.com"",""source"":1,""password"":""1""}",10001

@@ -1,0 +1,2 @@
+id,Modular,title,method,path,data,result
+list_001,list,参数正确获取列表信息成功,post,/api/shop/credit/list,"{""store_customer_id"":2801300176948,""store_id"":2,""account"":""dqszmv32910@chacuo.net""}",ok
