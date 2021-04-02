@@ -20,7 +20,7 @@ def sendReport(file_new):
         msg = MIMEText(mail_body, 'html', 'utf-8')
         msg['Subject'] = Header('自动化测试报告', 'utf-8')
         msg['From'] = 'hl13718441146@163.com'  # 发件地址
-        msg['To'] = "Sunny_hong@patazon.net";"Buck_xu@patazon.net" # 收件人地址，多人以分号分隔
+        msg['To'] = "Sunny_hong@patazon.net";"Buck_xu@patazon.net";"zara_zeng@patazon.net" # 收件人地址，多人以分号分隔
 
         smtp = smtplib.SMTP('smtp.163.com')
         smtp.set_debuglevel(1)
